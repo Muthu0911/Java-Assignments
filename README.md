@@ -16,12 +16,12 @@ This project is a Java application that simulates an online banking system using
 - OOP Concepts
 
 ## Output
-User-1 deposited Rs.500 | Balance = Rs.1500 
-User-3 withdrew Rs.1500 | Balance = Rs.0 
-User-2 Error: Insufficient balance. 
-User-4 Error: Deposit amount must be positive.  
- 
-Final Balance = Rs.0 
+User-1 deposited Rs.500 | Balance = Rs.1500<br>
+User-3 withdrew Rs.1500 | Balance = Rs.0<br>
+User-2 Error: Insufficient balance.<br>
+User-4 Error: Deposit amount must be positive.<br><br>
+
+Final Balance = Rs.0
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Student Record Management System**
