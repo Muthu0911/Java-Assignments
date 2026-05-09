@@ -17,9 +17,9 @@ This project is a Java application that simulates an online banking system using
 
 ## Output
 User-1 deposited Rs.500 | Balance = Rs.1500 
-User-3 withdrew Rs.1500 | Balance = Rs.0  
+User-3 withdrew Rs.1500 | Balance = Rs.0 
 User-2 Error: Insufficient balance. 
-User-4 Error: Deposit amount must be positive. 
+User-4 Error: Deposit amount must be positive.  
  
 Final Balance = Rs.0 
 
@@ -45,7 +45,7 @@ This project is a Java application used to manage student records using generics
 Student Records: 
 ID: 101 Name: Arun  
 ID: 102 Name: Priya 
-ID: 103 Name: Kavin 
+ID: 103 Name: Kavin  
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
    **Drawing Application**
