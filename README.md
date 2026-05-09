@@ -42,10 +42,10 @@ This project is a Java application used to manage student records using generics
 - OOP Concepts 
 
 ## Output
-Student Records: 
-ID: 101 Name: Arun  
-ID: 102 Name: Priya 
-ID: 103 Name: Kavin  
+ Student Records:<br>
+ID: 101 Name: Arun<br>
+ID: 102 Name: Priya<br>
+ID: 103 Name: Kavin
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
    **Drawing Application**
