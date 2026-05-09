@@ -16,12 +16,12 @@ This project is a Java application that simulates an online banking system using
 - OOP Concepts
 
 ## Output
-User-1 deposited Rs.500 | Balance = Rs.1500
-User-3 withdrew Rs.1500 | Balance = Rs.0
-User-2 Error: Insufficient balance.
-User-4 Error: Deposit amount must be positive.
-
-Final Balance = Rs.0
+User-1 deposited Rs.500 | Balance = Rs.1500 
+User-3 withdrew Rs.1500 | Balance = Rs.0  
+User-2 Error: Insufficient balance. 
+User-4 Error: Deposit amount must be positive. 
+ 
+Final Balance = Rs.0 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Student Record Management System**
@@ -39,13 +39,13 @@ This project is a Java application used to manage student records using generics
 - Generics
 - Collections Framework
 - Iterator
-- OOP Concepts
+- OOP Concepts 
 
 ## Output
-Student Records:
-ID: 101 Name: Arun
-ID: 102 Name: Priya
-ID: 103 Name: Kavin
+Student Records: 
+ID: 101 Name: Arun  
+ID: 102 Name: Priya 
+ID: 103 Name: Kavin 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
    **Drawing Application**
@@ -54,19 +54,19 @@ ID: 103 Name: Kavin
 This project is a Java AWT-based drawing application that allows users to draw shapes and change colors using GUI components and mouse events.
 
 ## Features
-- GUI using Frame and Buttons
-- Mouse click interaction
-- Shape drawing
-- Color changing functionality
+- GUI using Frame and Buttons 
+- Mouse click interaction 
+- Shape drawing 
+- Color changing functionality 
 
 ## Concepts Used
-- Java AWT
-- Event Handling
-- Graphics Class
-- GUI Components
+- Java AWT 
+- Event Handling  
+- Graphics Class 
+- GUI Components 
 
 ## Output
-- Users can draw circles and rectangles
-- Shapes are displayed in selected colors
-- Interactive drawing using mouse clicks
+- Users can draw circles and rectangles 
+- Shapes are displayed in selected colors 
+- Interactive drawing using mouse clicks 
   
